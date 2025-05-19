@@ -14,15 +14,43 @@ Package Manager: npm
 
 Containerization: Docker
 
-Dependencies:
+Dependencies: axios, react-slick, slick-carousel, concurrently
 
-axios
+👨‍⚕️ Doctor Usage
 
-react-slick
+✅ Features:
 
-slick-carousel
+View patient profiles and history
 
-concurrently
+Accept or reject appointment requests
+
+Write prescriptions or notes
+
+Conduct or schedule consultations
+
+🧑‍🦽 Patient Usage
+
+✅ Features:
+
+Book appointments with doctors
+
+View consultation history
+
+Access prescriptions and notes
+
+Communicate with doctors
+
+🧑‍💼 Admin Usage
+
+✅ Features:
+
+Manage doctors and patient records
+
+Approve or suspend accounts
+
+Monitor system usage and logs
+
+Manage appointments
 
 
 
